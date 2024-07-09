@@ -17,3 +17,5 @@
 # Solved Problems List:
 
 ## Leetcode 1 - Two Sum
+
+## Leetcode 20 - Valid Paranthesis
